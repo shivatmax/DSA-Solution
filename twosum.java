@@ -1,3 +1,7 @@
+import java.util.HashMap;
+import java.util.Map;
+
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         // Create a HashMap to store the elements of the array as keys and their indices as values.
